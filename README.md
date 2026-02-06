@@ -1,4 +1,4 @@
-# AdventureWorks-Harika
+
 # Enterprise Sales & Customer Analytics – Power BI
 
 ## Executive Summary
